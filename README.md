@@ -10,21 +10,6 @@
   <a href="https://dev.to/hugoesparzac"><img alt="Dev.to" title="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
 </h3>  
 
-<!--
-**HugoEsparzaC/HugoEsparzaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### <h2> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img> About Me </h2>
 - :school: I'm currently second year computer science student at **Universidad Autónoma de San Luis Potosí | Facultad de ingeniería**
 - :books: In addition to being a **Intelligent Systems Engineer**, I have a strong interest in **Data Science, Data Analytics, Automatization, and Machine Learning**
@@ -32,12 +17,17 @@ Here are some ideas to get you started:
 - :monocle_face: I'm interested in coding and reading books
 
 ### <h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> My Technical Stacks </h2>  
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 ### <h2> <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="40px"> My GitHub Analytics </h2> 
 <div align="center">
