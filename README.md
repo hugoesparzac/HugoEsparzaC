@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">
+Hi I'm Hugo Esparza
+</h1>
 
 <!--
 **HugoEsparzaC/HugoEsparzaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=HugoEsparzaC&show_icons=true&theme=merko" />
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoEsparzaC&langs_count=8&theme=merko" />
