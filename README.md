@@ -2,8 +2,13 @@
   <a href="https://github.com/tranthaituananh"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=50&duration=2311&pause=700&color=80cbc4&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%91%8B+Hello+World+!+;I'm+Hugo+Esparza+Castañeda" alt="tranthaituananh | hello_world!" /></a>
 </p> 
 
-<h3 align="center"> <a href="http://www.linkedin.com/in/hugo-esparza-c/">LinkedIn</a> • <a href="mailto:hugo.esparza3@gmail.com">Gmail</a> • <a href="https://www.youtube.com/@programacion_inteligente">YouTube</a> • <a href="https://codeforces.com/profile/Hugo_Esparza">Codeforces</a> • <a href="https://dev.to/hugoesparzac">Dev.to</a> </h3>  
-
+<h3 align="center">
+  <a href="http://www.linkedin.com/in/hugo-esparza-c/"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:hugo.esparza3@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@programacion_inteligente"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/Hugo_Esparza"><img alt="Codeforces" title="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+  <a href="https://dev.to/hugoesparzac"><img alt="Dev.to" title="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+</h3>  
 
 <!--
 **HugoEsparzaC/HugoEsparzaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,6 +31,13 @@ Here are some ideas to get you started:
 - :earth_asia: I'm living now in **San Luis Potosí City, Mexico**
 - :monocle_face: I'm interested in coding and reading books
 
+### <h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> My Technical Stacks </h2>  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ### <h2> <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="40px"> My GitHub Analytics </h2> 
 <div align="center">
