@@ -11,7 +11,7 @@
 </h3>  
 
 ### <h2> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img> About Me </h2>
-- :school: I'm currently second year computer science student at **Universidad Autónoma de San Luis Potosí | Facultad de ingeniería**
+- :school: I'm currently a bachelor second year computer science student at **Universidad Autónoma de San Luis Potosí | Facultad de ingeniería**
 - :books: In addition to being a **Intelligent Systems Engineer**, I have a strong interest in **Data Science, Data Analytics, Automatization, and Machine Learning**
 - :earth_asia: I'm living now in **San Luis Potosí City, Mexico**
 - :monocle_face: I'm interested in coding and reading books
