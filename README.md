@@ -11,8 +11,8 @@
 </h3>  
 
 ### <h2> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img> About Me </h2>
-- :school: I'm currently a bachelor second year computer science student at **Universidad Autónoma de San Luis Potosí | Facultad de ingeniería**
-- :books: In addition to being a **Intelligent Systems Engineer**, I have a strong interest in **Data Science, Data Analytics, Automatization, and Machine Learning**
+- :school: I'm currently a bachelor second year computer science student at **[Universidad Autónoma de San Luis Potosí](https://www.uaslp.mx/#gsc.tab=0) | [Facultad de ingeniería](https://www.ingenieria.uaslp.mx/)**
+- :books: In addition to being an **Intelligent Systems Engineer**, I have a strong interest in **Data Science, Data Analytics, Automatization, and Machine Learning**
 - :earth_asia: I'm living now in **San Luis Potosí City, Mexico**
 - :monocle_face: I'm interested in coding and reading books
 
@@ -29,9 +29,6 @@
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ### <h2> <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="40px"> My GitHub Analytics </h2> 
