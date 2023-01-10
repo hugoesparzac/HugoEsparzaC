@@ -3,11 +3,11 @@
 </p> 
 
 <h3 align="center">
-  <a targwt="_blank" href="http://www.linkedin.com/in/hugo-esparza-c/"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a targwt="_blank" href="mailto:hugo.esparza3@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a targwt="_blank" href="https://www.youtube.com/@programacion_inteligente"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a targwt="_blank" href="https://codeforces.com/profile/Hugo_Esparza"><img alt="Codeforces" title="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
-  <a targwt="_blank" href="https://dev.to/hugoesparzac"><img alt="Dev.to" title="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+  <a target="_blank" href="http://www.linkedin.com/in/hugo-esparza-c/"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a target="_blank" href="mailto:hugo.esparza3@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a target="_blank" href="https://www.youtube.com/@programacion_inteligente"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a target="_blank" href="https://codeforces.com/profile/Hugo_Esparza"><img alt="Codeforces" title="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+  <a target="_blank" href="https://dev.to/hugoesparzac"><img alt="Dev.to" title="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
 </h3>  
 
 ### <h2> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img> About Me </h2>
