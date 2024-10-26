@@ -13,7 +13,6 @@
 
 ### <h2> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img> ABOUT ME </h2>
 - :school: I'm currently a bachelor 4th year computer science student at **[Universidad Autónoma de San Luis Potosí](https://www.uaslp.mx/) | [Facultad de ingeniería](https://www.ingenieria.uaslp.mx/)**
-- :earth_asia: I'm living currently in **San Luis Potosí City, Mexico**
 
 ### <h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> SKILLS </h2>  
 
