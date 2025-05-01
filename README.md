@@ -3,7 +3,8 @@
 </p> 
 
 <h3 align="center">
-  <a target="_blank" href="http://www.linkedin.com/in/hugo-esparza-c/"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a target="_blank" href="http://www.linkedin.com/in/hugoesparzac/"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a target="_blank" href="http://www.hugoesparzac.com/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
   <!---
   <a target="_blank" href="https://www.youtube.com/@programacion_inteligente"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a target="_blank" href="https://codeforces.com/profile/Hugo_Esparza"><img alt="Codeforces" title="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
